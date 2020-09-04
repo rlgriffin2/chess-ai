@@ -1,0 +1,1 @@
+This will eventually be a fully functional chess game. Hopefully we will be able to program an AI to play as well.
